@@ -1,3 +1,7 @@
+---
+title: "Mind Aphorisms"
+---
+
 ## Balance
 
 The one who stayed indoors and the one who caught every fish starved, but the fisherman who caught a meal for his family died of old age. ^balance

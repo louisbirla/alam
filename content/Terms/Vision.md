@@ -1,4 +1,5 @@
 ---
+title: Vision
 aliases: ["Visions"]
 ---
 

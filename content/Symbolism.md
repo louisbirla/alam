@@ -1,3 +1,7 @@
+---
+title: Symbolism
+---
+
 The literal symbol of [[Alamism]] is a circle with the bottom half filled (◒). It represents many different ideas, including:
 - [[Al]] (empty) and [[Am]] (filled)
 - [[Practice]]; filling the symbol with Alam
@@ -9,6 +13,6 @@ The literal symbol of [[Alamism]] is a circle with the bottom half filled (◒).
 
 The Yin-Yang symbol can be related to Alamism, but is not the central one.
 
-Flowers are a strong symbol for the Alam concept in Alamism since they appear in the [[Heart]] observation. Bees are also symbolize this for the same reason.
+Flowers are a strong symbol for the Alam concept in Alamism since they appear in the [Heart Observation](Aphorisms/Heart%20Aphorisms.md#Heart%20Observation). Bees are also symbolize this for the same reason.
 
-Fish can be a symbol of balance for their appearance in [this observation](Mind.md#^balance).
+Fish can be a symbol of balance for their appearance in [this observation](Aphorisms/Mind%20Aphorisms.md#^balance).

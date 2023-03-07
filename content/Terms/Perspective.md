@@ -1,4 +1,5 @@
 ---
+title: Perspective
 alias: ["Perspectives"]
 ---
 

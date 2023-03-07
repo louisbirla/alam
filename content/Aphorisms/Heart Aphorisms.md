@@ -1,3 +1,7 @@
+---
+title: "Heart Aphorisms"
+---
+
 The Heart [Aphorisms](Terms/Aphorisms.md) are the core of Alamism. Everything else stems from these. The Heart Definition defines the very core concepts, and the Heart Observation implies the core Alamist thought.
 
 ## Heart Definition

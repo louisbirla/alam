@@ -1,3 +1,7 @@
+---
+title: "Meta Aphorism"
+---
+
 ## Aphorism
 
 Artists have the most arduous task of painting infinity. ^aphorism

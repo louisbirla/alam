@@ -1,5 +1,9 @@
-The concept of "self" is a [Perspective](Terms/Perspective.md) brought about by what is called one's concious.
-Through [Nature](Terms/Nature.md), humans have a complicated array of perspectives arranged in a way capable of "thought," on it's own capable of perspective. The array of perspectives can be thought of as a concious.
+---
+title: "Self"
+---
+
+The concept of "self" is a [Perspective](Terms/Perspective.md) brought about by what is called one's conscious.
+Through [Nature](Terms/Nature.md), humans have a complicated array of perspectives arranged in a way capable of "thought," on it's own capable of perspective. The array of perspectives can be thought of as a conscious.
 
 This concept of "self" is great since it allows for us to "assume" control of our otherwise deterministic actions. Just by giving ourselves a new perspective, we are able to modify the nature of our bodies, like overcoming addictions or [practicing](Terms/Practice.md) good habits.
 

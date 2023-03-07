@@ -1,3 +1,7 @@
+---
+title: "Alamist"
+---
+
 Noun: A self-identifying practitioner of [[Alam]]
 Adjective: Relating to Alamism
 

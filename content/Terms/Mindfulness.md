@@ -1,4 +1,8 @@
-In Alamism, mindfulness is concious [Perspective](Terms/Perspective.md) without [Self](Terms/Self.md). This is achieved through [Meditation](Terms/Mindfulness.md#Meditation) (by definition).
+---
+title: "Mindfulness"
+---
+
+In Alamism, mindfulness is conscious [Perspective](Terms/Perspective.md) without [Self](Terms/Self.md). This is achieved through [Meditation](Terms/Mindfulness.md#Meditation) (by definition).
 
 ## Meditation
 

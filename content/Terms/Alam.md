@@ -1,4 +1,5 @@
 ---
+title: Alam
 aliases: [Alamic, Alamically, Disalamic]
 ---
 

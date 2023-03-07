@@ -1,5 +1,5 @@
 ---
-title: Alamism
+title: "◒ Home"
 enableToc: false
 ---
 
