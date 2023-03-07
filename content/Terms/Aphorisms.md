@@ -4,8 +4,6 @@ The [[Heart]] aphorisms are at the very core of Alamism and from them the rest o
 
 ## Corpus
 
-^corpus
-
 ![](Aphorisms/Heart.md#^definition)
 ![](Aphorisms/Heart.md#^observation)
 ![](Aphorisms/Meta.md#^aphorism)
