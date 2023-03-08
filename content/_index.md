@@ -7,4 +7,4 @@ Hello! Welcome to Louis's webpage on [Alamism](Terms/Alamism.md). This is **not*
 
 - What the heck is an [Alamist](Terms/Alamist.md)?
 - Search anything if you want to quickly read up on a concept
-- Go straight to the [Corpus](Terms/Aphorisms.md#Corpus)
+- Go straight to the [Aphorisms](Terms/Aphorisms.md)

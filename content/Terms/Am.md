@@ -4,7 +4,8 @@ title: "Am"
 
 Am is both anything and everything, including itself.
 
-![[Aphorisms/Heart Aphorisms#^definition]]
+> The Am that can be named is a part of the Am.
+> ([Heart Definition](Aphorisms/Heart%20Aphorisms.md#Heart%20Definition))
 
 The root of Am is [Attachment](Terms/Attachment.md), and can only exist with [Perspective Harmony](Terms/Perspective%20Harmony.md).
 
